@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SmartReboot/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/ethank/Documents/gerrit/SmartReboot/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/ethank/Documents/gerrit/SDKDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

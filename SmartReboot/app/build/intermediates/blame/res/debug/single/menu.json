@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SmartReboot/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ethank/Documents/gerrit/SmartReboot/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SDKDemo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ethank/Documents/gerrit/SDKDemo/app/src/main/res/menu/main.xml"
+    }
+]
